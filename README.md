@@ -33,7 +33,6 @@ compiledCode.contracts[‘:Voting’].interface: interface of the contract (call
 > deployedContract.address
 > contractInstance = VotingContract.at(deployedContract.address)
 deployedContract.address. When you have to interact with your contract, you need this deployed address and abi definition we talked about earlier.
-
 Step 3 - Interacting with the Contract via the Nodejs Console
 > contractInstance.totalVotesFor.call('Rama')
 { [String: '0'] s: 1, e: 0, c: [ 0 ] }

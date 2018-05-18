@@ -1,5 +1,5 @@
 # voting-app
-My first attempt to build a decentralized voting app.
+My first attempt to build a decentralized voting app. This is the code for "A Guide to Building Your First Decentralized Application" by Siraj Raval on Youtube
 
 Step 1 - Setting up Environment
 Instead of developing the app against the live Ethereum blockchain, we will use an in-memory blockchain (think of it as a blockchain simulator) called testrpc.
